@@ -12,7 +12,7 @@
             enemy.setDamage(point * this.power);
         }
     }
-
+    //hui
     class ImprovedFighter extends Fighter {
         constructor(name = 'Player2', power = 5, health = 1000){
             super(name,power,health)
