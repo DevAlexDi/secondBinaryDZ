@@ -21,7 +21,8 @@
             return super.hit(enemy, point * 2);
         }
     }
-    //hui 2 qwe rrrrrr
+
+    //hui 2 qwe
     let Vandam = new Fighter("Vandam", 5, 1000);
     let ChuckNorris = new ImprovedFighter("Chuck", 5, 1000);
 
