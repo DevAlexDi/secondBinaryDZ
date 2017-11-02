@@ -12,7 +12,7 @@
             enemy.setDamage(point * this.power);
         }
     }
-
+    //hui
     class ImprovedFighter extends Fighter {
         constructor(name = 'Player2', power = 5, health = 1000){
             super(name,power,health)
@@ -21,7 +21,7 @@
             return super.hit(enemy, point * 2);
         }
     }
-
+    //hui 2
     let Vandam = new Fighter("Vandam", 5, 1000);
     let ChuckNorris = new ImprovedFighter("Chuck", 5, 1000);
 
